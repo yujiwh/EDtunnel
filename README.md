@@ -37,9 +37,10 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 1. Copy `_worker.js` code from [here](https://github.com/yujiwh/EDtunnel/blob/main/_worker.js), or you can fork this repository.
 
 2. Alternatively, you can click the button below to deploy directly.
-   See YouTube Video https://youtu.be/kOjSsX32XdA
 
    [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yujiwh/EDtunnel)
+
+   See YouTube Video https://youtu.be/kOjSsX32XdA
 
 ## Lazy to deploy
 
