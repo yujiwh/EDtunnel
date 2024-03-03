@@ -4,9 +4,9 @@
   <img src="https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
-GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub Repository: [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
 
-ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
+Ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 [![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
 
@@ -26,9 +26,7 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 ## Deploy in pages.dev
 
-1. See YouTube Video:
-
-   [https://www.youtube.com/watch?v=8I-yTNHB0aw](https://www.youtube.com/watch?v=8I-yTNHB0aw)
+1. See YouTube Video: https://youtu.be/8I-yTNHB0aw
 
 2. Clone this repository deploy in cloudflare pages.
 
@@ -40,7 +38,7 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
    [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yujiwh/EDtunnel)
 
-   See YouTube Video https://youtu.be/kOjSsX32XdA
+   See YouTube Video: https://youtu.be/kOjSsX32XdA
 
 ## Lazy to deploy
 
@@ -125,12 +123,3 @@ resons: Outbound TCP sockets to Cloudflare IP ranges are temporarily blocked, pl
 frist, open your pages.dev domain `https://edtunnel.pages.dev/` in your browser, then you can see the following page:
 The path `/uuid your seetting` to get the clash config and vless:// link.
 
-## Star History
-
-<a href="https://star-history.com/#3Kmfi6HP/EDtunnel&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
-  </picture>
-</a>
