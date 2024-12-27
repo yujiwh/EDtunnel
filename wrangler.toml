@@ -1,12 +1,9 @@
-name = "mborez" # todo
+name = "vless" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-[[routes]]
-pattern = "mborez.ligas.us.kg"
-custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -15,4 +12,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "35c32317-0029-4c37-b461-e57fdbcefc6d" # change this uuid before deploy with this code
+# change this uuid before deploy with this code
